@@ -1,5 +1,14 @@
 .cabecalho{
     display: flex;
+    align-items: ;
     background-color: #0e536e;
     color: antiquewhite;
-}df
+}
+
+.cabecalho-lista{
+    display: flex;
+}
+
+.cabecalho-logo{
+    display: flex;
+}
