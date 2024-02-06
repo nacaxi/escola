@@ -3,7 +3,7 @@
     align-items: center;
     background-color: #0e536e;
     color: rgb(255, 255, 255);
-    justify-content: flex-end;
+    justify-content: space-around;
 }
 
 .cabecalho-lista{
