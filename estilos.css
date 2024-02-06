@@ -2,7 +2,13 @@ body{
     background-color: rgb(0, 255, 0);
 }
 
-
+.cabecalho{
+    display: flex;
+    align-items: center;
+    background-color: #0e536e;
+    color: rgb(255, 255, 255);
+    justify-content: space-around;
+}
 
 .cabecalho-lista{
     display: flex;
